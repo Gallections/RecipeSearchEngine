@@ -1,0 +1,57 @@
+{
+    "recipes": [
+        {
+            "name": "Fried Rice",
+            "ingredients": [
+                "baby carrots",
+                "frozen green peas",
+                "vegetable oil",
+                "garlic",
+                "eggs",
+                "white rice",
+                "soy sauce",
+                "sesame oil"
+            ],
+            "steps": [
+                "Assemble ingredients.",
+                "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander.",
+                "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables.",
+                "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
+            ]
+        },
+        {
+            "name": "Mashed Potatoes",
+            "ingredients": [
+                "baking potatoes",
+                "garlic",
+                "milk",
+                "butter",
+                "ground black pepper",
+                "salt"
+            ],
+            "steps": [
+                "Bring a large pot of salted water to a boil. Add peeled potatoes and peeled garlic, lower heat to medium, and simmer until potatoes are tender, 15 to 20 minutes.",
+                "When the potatoes are almost finished, heat milk and 3 table spoon of butter in a small saucepan over low heat until butter is melted.",
+                "Drain potatoes and return to the pot. Slowly add warm milk mixture, blending it in with a potato masher or electric mixer until potatoes are smooth and creamy. Season with salt and pepper."
+            ]
+        },
+        {
+            "name": "Mac and Cheese",
+            "ingredients": [
+                "macaroni",
+                "butter",
+                "flour",
+                "cheese",
+                "seasonings",
+                "bread Crumbs"
+            ],
+            "steps": [
+                "Boil the noodles, drain, and transfer to a prepared baking dish.",
+                "Make the cheese sauce, pour the sauce over the noodles, and stir.",
+                "Make the topping, spread it over macaroni and cheese, and sprinkle with paprika.",
+                "Bake the mac and cheese until the topping is golden brown."
+            ]
+        }
+    ],
+    "name": "John"
+}
